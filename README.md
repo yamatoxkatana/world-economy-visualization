@@ -1,6 +1,4 @@
-# World Economy visualization
+# Lightweight World Economy Hierarchy Visualization
 
-It's a lightweight sample world economy heirarchy visualization created with an intention for a large scale economic web system.
-It's currently in development stage only and the real schematics is work in progress.
-
-Built with :blue_heart: Vanilla JavaScript
+This project is a lightweight visualization of a world economy hierarchy, built with 💙 Vanilla JavaScript. 
+It's designed to be a foundation for a large-scale economic web system and the real schematics are still being actively developed.
